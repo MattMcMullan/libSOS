@@ -1,0 +1,4 @@
+libSOS
+======
+
+Seamless Ogre Shit
